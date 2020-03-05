@@ -1,0 +1,38 @@
+.input{
+    margin: 30px auto 50px auto;
+    padding: 10px;
+    height: auto;
+
+}
+.comment{
+    width: 95%;
+    height: 150px;
+    margin: 10px auto 10px auto;
+    display:block;
+}
+#inputButton{
+    background-color: #062c33;
+    color: white;
+    width: 100px;
+    height: auto;
+    margin:10px auto;
+    float: right;
+}
+#messageList{
+    width: 95%;
+    margin: 30px auto;
+    padding: 15px;
+    height: auto;
+
+}
+.show
+{
+    padding: 15px;
+    margin-bottom: 50px;
+}
+.infoText{
+    font-size: 20px;
+}
+.infoTime{
+    margin: 10px 30px 10px 100px
+}

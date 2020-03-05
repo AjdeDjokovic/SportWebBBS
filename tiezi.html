@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>Offcanvas template · Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap.min.css" rel="stylesheet" >
+    <link href="tiezi.css" rel="stylesheet" >
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+    <!-- Custom styles for this template -->
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="tiezi.js"></script>
+
+    <link href="offcanvas.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="person.php" id="username">个人主页</a>
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="home.php">Back to Home</a>
+    <ul class="navbar-nav px-3">
+        <li class="nav-item text-nowrap">
+            <a class="nav-link" href="login.php?sign=out">Sign out</a>
+        </li>
+    </ul>
+</nav>
+
+
+
+<main role="main" class="container">
+    <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded shadow-sm">
+        <img class="mr-3" src="/docs/4.2/assets/brand/bootstrap-outline.svg" alt="" width="48" height="48">
+        <div class="lh-100">
+            <h6 class="mb-0 text-white lh-100">山东大学</h6>
+            <small>Since 2018</small>
+        </div>
+    </div>
+
+    <div class="my-3 p-3 bg-white rounded shadow-sm" id="messageList">
+
+    </div>
+
+
+
+    <div id="input" class="input">
+        <textarea id="comment" class="comment"></textarea>
+        <form >
+            <input type="button" id="inputButton" value="发布" disabled>
+        </form>
+    </div>
+</main>
+<script src="offcanvas.js"></script></body>
+</html>

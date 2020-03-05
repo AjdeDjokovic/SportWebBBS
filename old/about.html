@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css" >
+        <!--
+        @import url(aboutcss.css);
+        -->
+    </style>
+    <script type="text/javascript">
+        function mousedown(event) {
+            if(window.event)
+            var obj = window.event.srcElement;
+            else
+                var obj = event.target;
+            obj.style.color = '#000000';
+        }
+        function mouseup(event) {
+            if(window.event)
+                var obj = window.event.srcElement;
+            else
+                var obj = event.target;
+            obj.style.color = '#AA9900';
+            window.open("http://www.sdu.edu.cn/");
+        }
+    </script>
+</head>
+<body background="about.jpg" id="web">
+
+<table border="0" align="center">
+    <tr><td width="100%" colspan="10"></td></tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr>
+        <td colspan="10"><div onmousedown="mousedown(event)" onmouseup="mouseup(event)">山东大学</div></td>
+    </tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr><td colspan="10">软件学院</td> </tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr><td colspan="10">软件工程</td> </tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr><td colspan="10">2017级8班</td> </tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr><td colspan="10">学生 杜瀛川</td> </tr>
+    <tr><td colspan="10"></td> </tr>
+    <tr><td colspan="10">201700301147</td> </tr>
+
+
+</table>
+</body>
+</html>

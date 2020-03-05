@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul.Nav{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #111;
+}
+li.Nav{
+    float: left;
+    width: 7%;
+}
+li a.Nav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+li a:hover.Nav {
+    background-color: #333;
+}
+#active {
+    background-color: dodgerblue;
+}
+
+
+
+.box{
+    width: 1916px;
+    height: 897px;
+    margin: 1px auto;
+}
+.inner{
+    width: 1916px;
+    height: 897px;
+    position: relative;
+    overflow: hidden;
+}
+.inner img{
+    width: 1916px;
+    height: 897px;
+    vertical-align: top
+}
+ul.img{
+    width: 1000%;
+    position: absolute;
+    list-style: none;
+    left: 0;
+    right: 0;
+}
+.inner li{
+    float: left;
+}
+ol{
+    position:absolute;
+    height: 20px;
+    right: 20px;
+    bottom: 20px;
+    text-align: center;
+    padding: 5px;
+}
+ol li{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    background-color: #ffffff;
+    margin: 5px;
+    cursor: pointer;
+}
+ol .current{
+    background-color: red;
+}
+#arr{
+    display: none;
+}
+#arr span{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    margin-top: -20px;
+    background:#ffffff;
+    cursor: pointer;
+    line-height: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: '黑体';
+    font-size: 30px;
+    color: #000;
+    opacity: 0.5;
+    border: 1px solid #ffffff;
+}
+
+#arr #right{
+    right: 5px;
+    left: auto;
+}
+ 
