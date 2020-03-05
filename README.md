@@ -1,6 +1,6 @@
 lamp bbs demo
 
-![your-picture](./imgs/1.png?raw=true)
+![your-picture](imgs/1.png?raw=true)
 
 ![your-picture](imgs/2.png?raw=true)
 
