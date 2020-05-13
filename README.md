@@ -1,21 +1,29 @@
-lamp bbs demo
+##  bbs demo Implemented in PHP
 
-![image](imgs/1.png)
+**1. The theme of is sports.**
 
-![image](imgs/2.png)
+**2. use lamp**
 
-![image](imgs/3.png)
+***
 
-![image](imgs/4.png)
+## image
 
-![image](imgs/5.png)
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/1.png)
 
-![image](imgs/6.png)
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/2.png)
 
-![image](imgs/7.png)
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/3.png)
 
-![image](imgs/8.png)
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/4.png)
 
-![image](imgs/9.png)
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/5.png)
 
-![image](imgs/10.png)
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/6.png)
+
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/7.png)
+
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/8.png)
+
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/9.png)
+
+![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/10.png)
