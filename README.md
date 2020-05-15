@@ -1,10 +1,9 @@
 ##  bbs demo Implemented in PHP
 
-**1. The theme of is sports.**
+> 1. The theme of is sports.
 
-**2. use lamp**
+> 2. use lamp
 
-***
 
 ## image
 
