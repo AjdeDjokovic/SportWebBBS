@@ -1,11 +1,11 @@
-##  bbs demo Implemented in PHP
+###  bbs demo Implemented in PHP
 
 > 1. The theme of is sports.
 
-> 2. use lamp
+> 2. lamp bootstrap
 
-
-## image
+***
+### image
 
 ![image](https://github.com/AjdeDjokovic/SportWebBBS/blob/master/imgs/1.png)
 
